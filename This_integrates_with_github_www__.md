@@ -1,0 +1,1 @@
+This integrates with [github](www.github.com), and that honestly makes it great.
